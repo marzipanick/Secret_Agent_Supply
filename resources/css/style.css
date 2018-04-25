@@ -169,7 +169,7 @@ footer .container p {
   }
   .container .announcement {
     top: 10rem;
-    max-width: 470px;
+    width: 100%;
     padding-right: 0;
   }
   .container .announcement h6 {
